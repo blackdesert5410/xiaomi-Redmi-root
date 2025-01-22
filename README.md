@@ -15,6 +15,7 @@ root:
 
 部分root版：
 使用官方的miflash 刷机包
+
 suroot版：
 Magisk下载  https://github.com/topjohnwu/Magisk
 刷入boot magisk打开修复boot.img,传给电脑
