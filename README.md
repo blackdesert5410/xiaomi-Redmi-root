@@ -18,13 +18,17 @@ ROOT步骤:
 
 （联发科MTK 天玑1100以前的芯片可强解）
 
-下载强解MTK工具包：
+1.下载强解MTK工具包：
 
-安装驱动路径：   （之后删除驱动时不要断开手机连接，否则可能找不到andriod设备信息，无法删除）
+2.安装驱动路径：   （之后删除驱动时不要断开手机连接，否则可能找不到andriod设备信息，无法删除）
+            
+            a.MTK工具等3个文件\MTK工具\MTK工具箱\MTK工具箱\驱动  5个驱动，按需安装
+      
+            b.MTK工具等3个文件\MTK工具\AUTO_MTK_UNBL_TOOL.V.07.10.21\AUTO_MTK_UNBL_TOOL.V.07.10.21\AUTO_MTK_UNBL_TOOL.V.07.10.21.exe（密码在同路径文件中）
 
-1.MTK工具等3个文件\MTK工具\MTK工具箱\MTK工具箱\驱动  
+3.
 
-2.MTK工具等3个文件\MTK工具\AUTO_MTK_UNBL_TOOL.V.07.10.21\AUTO_MTK_UNBL_TOOL.V.07.10.21（密码在同路径文件中）
+
 
 ----------------------------------------------------------------------------------------------------------------------------
 
@@ -41,6 +45,7 @@ ROOT步骤:
 suroot版：
 
 Magisk下载  https://github.com/topjohnwu/Magisk
+
 刷入boot magisk打开修复boot.img,传给电脑
 秋之盒下载 https://atmb.top/
 将手机重启到fast boot,刷入boot.img——是修补后的img文件
