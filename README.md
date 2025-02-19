@@ -2,6 +2,7 @@
 小白写给自己手机root指南
 
 设备：
+
 Redmi Note 12T pro
 
 Redmi Note 10 pro
