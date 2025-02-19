@@ -28,6 +28,8 @@ ROOT步骤:
 
 3.MTK_Client解锁：
 
+按照工具中的提示 （关机，接线，同时按住两个音量键，找到点击unlock bootloader，成功后拔线重启，或连续点击电源强制重启）
+
             MTK工具等3个文件\MTK工具\MTK工具箱\MTK工具箱\MTK_Client.exe
 
 
