@@ -26,7 +26,9 @@ ROOT步骤:
       
             b.MTK工具等3个文件\MTK工具\AUTO_MTK_UNBL_TOOL.V.07.10.21\AUTO_MTK_UNBL_TOOL.V.07.10.21\AUTO_MTK_UNBL_TOOL.V.07.10.21.exe（密码在同路径文件中）
 
-3.
+3.MTK_Client解锁：
+
+            MTK工具等3个文件\MTK工具\MTK工具箱\MTK工具箱\MTK_Client.exe
 
 
 
@@ -49,5 +51,5 @@ Magisk下载  https://github.com/topjohnwu/Magisk
 刷入boot magisk打开修复boot.img,传给电脑
 秋之盒下载 https://atmb.top/
 将手机重启到fast boot,刷入boot.img——是修补后的img文件
-      
+
                 
