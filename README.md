@@ -6,8 +6,17 @@ Redmi NOTE 12T pro
 
 ROOT步骤:
 
-解BL：打开开发者选项，打开OEM引导，解锁设备（按官方要求登录小米社区绑定手机和账号，完成内测申请，大约需要半个月刷积分）
-红米note10pro（联发科MTK 天玑1100以前的芯片可强解）
+解BL：
+
+官方解锁：
+
+打开开发者选项，打开OEM引导，解锁设备（按官方要求登录小米社区绑定手机和账号，完成内测申请，大约需要半个月刷积分）
+
+使用小米官方解锁工具 http://www.miui.com/unlock/index.html   
+
+强解：
+
+（联发科MTK 天玑1100以前的芯片可强解）
 
 下载强解MTK工具包：
 
@@ -19,7 +28,7 @@ ROOT步骤:
 
 
 root: 
-使用小米官方解锁工具 http://www.miui.com/unlock/index.html   
+
 刷机包下载 官方版：https://xiaomirom.com/series/
 系统更新版：在系统更新里下载到100%断网找到boot.img
 
