@@ -12,7 +12,9 @@ ROOT步骤:
 下载强解MTK工具包：
 
 安装驱动路径：   （之后删除驱动时不要断开手机连接，否则可能找不到andriod设备信息，无法删除）
+
 1.MTK工具等3个文件\MTK工具\MTK工具箱\MTK工具箱\驱动  
+\n
 2.MTK工具等3个文件\MTK工具\AUTO_MTK_UNBL_TOOL.V.07.10.21\AUTO_MTK_UNBL_TOOL.V.07.10.21（密码在同路径文件中）
 
 
