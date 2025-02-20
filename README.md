@@ -53,8 +53,14 @@ suroot版：
 
 Magisk下载  https://github.com/topjohnwu/Magisk
 
-刷入boot magisk打开修复boot.img,传给电脑
+打开magisk修复boot.img,获取到新img传给电脑
+
 秋之盒下载 https://atmb.top/
-将手机重启到fast boot,刷入boot.img——是修补后的img文件
+
+打开秋之盒，点击fastboot
+
+点击刷入boot(img)，选择之前传到电脑上的img文件
+
+成功后点击重启，查看magisk情况
 
                 
