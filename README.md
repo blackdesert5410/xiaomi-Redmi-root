@@ -1,7 +1,7 @@
 # -root-
 小白写给自己手机root指南
 
-所有工具在master分支
+解BL的工具在master分支，root找b站topmiaohan
 
 设备：
 
