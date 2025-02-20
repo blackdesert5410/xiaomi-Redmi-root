@@ -1,0 +1,2 @@
+*.zip filter=lfs diff=lfs merge=lfs -text
+AUTO_MTK_UNBL_TOOL.V.07.10.21.zip filter=lfs diff=lfs merge=lfs -text
