@@ -1,6 +1,8 @@
 # -root-
 小白写给自己手机root指南
 
+所有工具在master分支
+
 设备：
 
 Redmi Note 12T pro
